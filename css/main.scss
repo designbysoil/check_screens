@@ -1,3 +1,6 @@
+---
+# Main SASS file
+---
 html,
 body {
   background-color: #fff;
@@ -5,9 +8,11 @@ body {
   height: 100%;
   margin: 0;
   overflow: hidden;
+  text-align: center;
 }
 
 #bm {
-  width: 100%;
-  height: 100%;
+  margin: 0 auto;
+  width: 80%;
+  height: 80%;
 }
